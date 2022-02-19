@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>My awesome tribute page mofos</title>
+    <!-- The line below links your html document to your css stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <<main id="main">
+  <h1 id="title"> Mike Tyson </h1>
+  <p>Greatest Boxer of the 80s !!</p>
+  <figure id="img-div">
+    <img id ="image" src="https://www.indiewire.com/wp-content/uploads/2021/05/PSDMITY_EC010.jpg?resize=800,537" alt="Mike Tyson boxing against Frank Bruno" />
+    <figcaption id="img-caption">
+      Tyson (on the right) applying his trade.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's a time line of Mike Tysons Career:</h3>
+    <ul>
+      <li><strong>1966</strong> - Born 30th June,Brooklyn New York City</li>
+      <li>
+        <strong>1981 - 82</strong> - Wins 2 Gold Medals at the Junior Olymipic Games defeating Joe Cortez in 1981 and beating Kelton Brown in 1982.
+      </li>
+      <li>
+        <strong>1985</strong> - As an 18 year old makes first professional debut March 6 Wins by TKO
+      </li>
+      <li>
+        <strong>1985</strong> - Fights 15 times across the year wins 26 of his first 28 by KO or TKO sadly the year is also marked by the death of his trainer Cus D'Amato.
+      </li>
+      <li>
+        <strong>1986</strong> - Tyson wins the WBC heavyweight championship
+      </li>
+      <li>
+        <strong>1988</strong> - Tyson faces Micheal Spinks, the fight ends in 91 secs many think this to be Tyson at his Peak.
+      </li>
+      <li>
+        <strong>1990</strong> - 35 seconds into the tenth round Tyson is sent to the canvas for the first time in his carrer by Buster Douglas.
+      </li>
+      <li>
+        <strong>1992 - 1995</strong> - Tyson Doesnt fight due to being convicted of rape, sentenced to 6 years tho only serving 3.
+      </li>
+      <li>
+        <strong>1995</strong> - Fought an easily won bouts against Peter McNeeley and Buster Mathis Jr.
+      </li>
+      <li>
+        <strong>1996</strong> - Tyson regains his WBC aginst Frank Bruno.
+      </li>
+      <li>
+        <strong>1996</strong> - Tyson loses a shock decison aginst Evander Holyfield in round eleven.
+      </li>
+      <li>
+        <strong>1997</strong> - Tyson VS Holyfield 2 the fight was stopped at the end of the third round in by TKO with tyson disqulified after biting Holyfields ear.
+      </li>
+      <li>
+        <strong>1997</strong> - Tyson's boxing licence is Recinded by Nevada State Athletic Comission.
+      </li>
+      <h3>
+        For more on Mike Tyson's carrer visit his
+        <a id="tribute-link" href="https://en.wikipedia.org/wiki/Mike_Tyson" target="_blank">Wikipedia entry</a>.
+      </h3>
+  </section>
+</main>
+  </body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
